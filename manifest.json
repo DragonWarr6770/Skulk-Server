@@ -1,0 +1,25 @@
+{
+  "short_name": "ShamrockLounge",
+  "name": "The Shamrock Lounge // Chat Pub",
+  "description": "An Irish pub themed virtual chat application and lounge platform.",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/2c1f14/22c55e/png?text=🍀",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://placehold.co/512x512/2c1f14/22c55e/png?text=SHAMROCK_LOUNGE",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/ShamrockLounge/index.html",
+  "background_color": "#1a120b",
+  "theme_color": "#2c1f14",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "categories": ["communication", "entertainment"]
+}
